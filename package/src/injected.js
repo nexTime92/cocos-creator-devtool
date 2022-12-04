@@ -39,7 +39,7 @@ function registerEvents() {
 	});
 }
 /**
- * @description 初始化ccdevtool
+ * @description 初始化cc devtool
  */
 function initCCDevtool() {
 	let canvasWidth = 0;
