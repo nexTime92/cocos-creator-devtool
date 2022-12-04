@@ -8,7 +8,7 @@
 			</div>
 			<!-- 功能按钮等 -->
 			<div class="features">
-				<div class="switchs">
+				<div class="switches">
 					<div class="switch">
 						<ElSwitch v-model="isShowStats"></ElSwitch>
 						<ElTooltip effect="dark" content="Show Stats/显示游戏参数" placement="bottom">
@@ -487,7 +487,7 @@ export default {
 		.features {
 			display: flex;
 			padding: 10px 0 10px 10px;
-			.switchs {
+			.switches {
 				display: flex;
 			}
 			.switch {
@@ -633,7 +633,7 @@ export default {
 			.title > a {
 				display: none;
 			}
-			.switchs {
+			.switches {
 				display: none !important;
 			}
 			.btn .el-tooltip {
