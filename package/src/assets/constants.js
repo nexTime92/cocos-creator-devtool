@@ -16,13 +16,13 @@ export const SerializeProps = {
 		"name",
 		"active",
 		"uuid",
-		//position, dimesion
+		//position, dimension
 		"x",
 		"y",
 		"width",
 		"height",
 		"zIndex",
-		//prepresentation
+		//presentation
 		"color",
 		"opacity",
 		//transformation
@@ -44,7 +44,7 @@ export const SerializeProps = {
 		"width",
 		"height",
 		"zIndex",
-		//prepresentation
+		//presentation
 		"color",
 		"opacity",
 		//transformation
