@@ -36,4 +36,3 @@ This repo clone from lingobus/cocos-creator-devtool. I removed `jage` template a
 
 2. Add curve graph game params such as drawcall.
 
-
